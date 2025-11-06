@@ -16,4 +16,5 @@ and background colors depending on the weather condition and time of day.
 - 🧼 Clean and responsive PyQt5 interface  
 
 ---
-
+## 🖼️ Preview
+<img width="397" height="523" alt="image" src="https://github.com/user-attachments/assets/6610ebc0-9850-4703-9f5b-475dde42457e" />
